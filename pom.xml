@@ -6,7 +6,7 @@
   <groupId>com.my</groupId>
   <artifactId>WebApp</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <name>WebApp Maven Webapp</name>
   
 <url>http://maven.apache.org</url>
@@ -42,7 +42,7 @@
 	scm:git:https://github.com/manjulapulicharla/test-mvn-release-plugin.git
 	
 	</developerConnection>
-  <tag>WebApp-1.0</tag>
+  <tag>HEAD</tag>
   </scm>
 
 
